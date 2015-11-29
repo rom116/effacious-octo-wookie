@@ -9,4 +9,4 @@ Here is some information about the project.
 Here I can write some text about some project.
 Some additional texts.  
 
-Somore changes.
+Some more changes.
